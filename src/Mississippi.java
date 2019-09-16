@@ -24,7 +24,7 @@ public class Mississippi {
 		System.out.println("M  M  M");
 		System.out.println("M     M");
 		System.out.println("M     M");
-		System.out.println("M     M");
+		System.out.println("M     M\n");
 	}
 	public static void I() {
 		System.out.println(" IIIII");
@@ -33,7 +33,7 @@ public class Mississippi {
 		System.out.println("   I");
 		System.out.println("   I");
 		System.out.println("   I");
-		System.out.println(" IIIII");
+		System.out.println(" IIIII\n");
 		
 	}
 	public static void S() {
@@ -43,7 +43,7 @@ public class Mississippi {
 		System.out.println(" SSSSS");
 		System.out.println("      S");
 		System.out.println("S     S");
-		System.out.println(" SSSSS");
+		System.out.println(" SSSSS\n");
 	}
     public static void P() {
     	System.out.println("PPPPPP");
@@ -52,6 +52,6 @@ public class Mississippi {
     	System.out.println("PPPPPP");
     	System.out.println("P");
     	System.out.println("P");
-    	System.out.println("P");
+    	System.out.println("P\n");
     }
 }
