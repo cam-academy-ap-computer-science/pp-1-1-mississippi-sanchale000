@@ -1,4 +1,9 @@
-
+/* Grading Notes
+25/25 points
+Best practice indicates that method names should be lower camel case (starting with a lower-case letter). 
+I did not deduct points for upper case method names on this project.
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
